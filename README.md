@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarolGala
-- 👀 I’m interested in programming & electronics 
-- 🌱 I’m currently learning all about robotics & web development
+- 👀 I’m interested in all kind of code development
+- 🌱 I’m currently learning ....
 - 📫 KarolGala27@gmail.com
 
 <!---
