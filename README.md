@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarolGala
-- 👀 I’m interested in all kind of code development
-- 🌱 I’m currently learning ....
+- 👀 I’m interested in all kind of software development but Python is my language to go 
+- 🌱 I’m currently focusing to master the art of web application development
 - 📫 KarolGala27@gmail.com
 
 <!---
